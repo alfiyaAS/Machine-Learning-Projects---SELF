@@ -15,14 +15,14 @@ Given the class imbalance ratio, we recommend measuring the accuracy using the A
 
 **Dataset download another link:** https://www.kaggle.com/mlg-ulb/creditcardfraud
 
-## Libraries
+## Libraries used
 
 - pandas
 - matplotlib
 - seaborn
 - scikit-learn
 
-## Algorithms
+## Algorithms used
 
 - Logistic Regression
 - Random Forest
