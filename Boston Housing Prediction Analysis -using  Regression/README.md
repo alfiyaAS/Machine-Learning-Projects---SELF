@@ -23,14 +23,14 @@ Boston Housing Dataset Attribute Information (in order):
 
 **Download link:** https://www.kaggle.com/puxama/bostoncsv
 
-### Libraries used
+## Libraries used
 
 <li>pandas
 <li>matplotlib
 <li>seaborn
 <li>scikit-learn
 
-### Algorithms used
+## Algorithms used
 
 <li>Linear Regression
 <li>Decision Tree
