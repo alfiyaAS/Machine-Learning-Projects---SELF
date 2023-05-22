@@ -1,5 +1,7 @@
 # Machine Learning Projects [SELF]
-## Hi, I am Alfiya Asif Sheikh! This repository contains some projects in machine learning along with jupyter notebook code files I create while solving those problems.
+## Hi, I am Alfiya Asif Sheikh!
+
+### This repository contains some projects in machine learning along with jupyter notebook code files I create while solving those problems.
 
 I regularly pick up new problems based on Kaggle competitions or other sources and try to create my own solutions for solving those problems. Handling various problems associated with different domains gives exposure and vision to handle obstacles in solving problems with efficiency and efficacy!
 
