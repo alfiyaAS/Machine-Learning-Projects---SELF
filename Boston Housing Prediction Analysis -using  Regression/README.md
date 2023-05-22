@@ -1,10 +1,7 @@
 # Boston Housing Prediction Analysis - Regression
 
-**Complete Video Tutorial:** https://youtu.be/WXXHPiX5LoQ
-
-# Dataset Information
-
-Boston House Prices Dataset was collected in 1978 and has 506 entries with 14 attributes or features for homes from various suburbs in Boston.
+## Dataset Information
+###Boston House Prices Dataset was collected in 1978 and has 506 entries with 14 attributes or features for homes from various suburbs in Boston.
 
 ```
 Boston Housing Dataset Attribute Information (in order):
@@ -26,19 +23,20 @@ Boston Housing Dataset Attribute Information (in order):
 
 **Download link:** https://www.kaggle.com/puxama/bostoncsv
 
-# Libraries
+### Libraries used
 
 <li>pandas
 <li>matplotlib
 <li>seaborn
 <li>scikit-learn
 
-# Algorithms
+### Algorithms used
 
 <li>Linear Regression
 <li>Decision Tree
 <li>Random Forest
 <li>Extra Tress
 <li>XGBoost
-  
+
+## *Final Regression Model Result*:
 **Mean Squared Error:** 10.0
